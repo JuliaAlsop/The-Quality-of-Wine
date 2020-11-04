@@ -2,11 +2,12 @@
 
 <img src="/Images/Wine 1.png" alt="Wine 1"/>
 
-                                                            Analysts: 
+                                                             Analysts: 
                                              Anna Zhang, Carolina Miranda, Julia Alsop 
                                                    
                                                         
-                                                        Project Analysis:                                       
+
+Project Analysis:                                       
 Picture...hosting a nice holiday party for close friends... having prepared all of the expected holiday hors d'oeuvres and the most beautiful charcuterie board in the world..holiday music playing in the background. But wait….how could you possibly make this party any better…...WINE. 
 
 <img src="/Images/Wine 2.jpg" alt="Wine 2"/>
