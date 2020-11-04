@@ -1,5 +1,6 @@
 Final Project - The Quality of Wine
 
+<img src="/Images/Wine 1.png" alt="Wine 1"/>
 
 Analysts: 
 Anna Zhang, Carolina Miranda, Julia Alsop 
