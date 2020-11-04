@@ -1,14 +1,12 @@
-                                    Final Project - The Quality of Wine
+                                                Final Project - The Quality of Wine
 
 <img src="/Images/Wine 1.png" alt="Wine 1"/>
 
-                                                Analysts: 
-
-                                Anna Zhang, Carolina Miranda, Julia Alsop 
-
-
-                                            Project Analysis:
-                                            
+                                                            Analysts: 
+                                             Anna Zhang, Carolina Miranda, Julia Alsop 
+                                                   
+                                                        
+                                                        Project Analysis:                                       
 Picture...hosting a nice holiday party for close friends... having prepared all of the expected holiday hors d'oeuvres and the most beautiful charcuterie board in the world..holiday music playing in the background. But wait….how could you possibly make this party any better…...WINE. 
 
 <img src="/Images/Wine 2.jpg" alt="Wine 2"/>
@@ -16,7 +14,7 @@ Picture...hosting a nice holiday party for close friends... having prepared all 
 The importance of selecting a wine to pair with food makes or breaks the flavor combination. With so many options for different types of white and red wines, we are giving you an inside look at the quality of wine and what truly contributes to choosing the better quality. We will be analyzing different traits in both white and red wine such as alcohol content, sugar levels, acidity, color, etc. to gain a better understanding on how each contributes to the quality.
 
 
-                                            Project Breakdown: 
+                                                      Project Breakdown: 
 
 Cleaning the data: Carolina
 Tableau Graphing: Julia
