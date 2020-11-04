@@ -18,10 +18,15 @@ The importance of selecting a wine to pair with food makes or breaks the flavor 
                                                       Project Breakdown: 
 
 Cleaning the data: Carolina
+
 Tableau Graphing: Julia
+
 HTML/CSS/Bootstrap Web-page display: Julia 
+
 Python Pandas/Matplotlib graphing & code layout: Anna
+
 Deployment to Heroku: Group Effort
+
 Powerpoint Presentation of data: Group Effort
 
 
