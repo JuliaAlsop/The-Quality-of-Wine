@@ -11,7 +11,7 @@
                                             
 Picture...hosting a nice holiday party for close friends... having prepared all of the expected holiday hors d'oeuvres and the most beautiful charcuterie board in the world..holiday music playing in the background. But wait….how could you possibly make this party any better…...WINE. 
 
-<img src="/Images/Wine 2.png" alt="Wine 2"/>
+<img src="/Images/Wine 2.jpg" alt="Wine 2"/>
 
 The importance of selecting a wine to pair with food makes or breaks the flavor combination. With so many options for different types of white and red wines, we are giving you an inside look at the quality of wine and what truly contributes to choosing the better quality. We will be analyzing different traits in both white and red wine such as alcohol content, sugar levels, acidity, color, etc. to gain a better understanding on how each contributes to the quality.
 
@@ -30,4 +30,4 @@ For this project we will be using the Scikit-Learn Python Machine learning progr
 Various graph types will be used to visually represent findings.
 
 
-[GOOGLE LINK TO PROJECT PROPOSAL] (https://docs.google.com/document/d/1b-X0_Imnww4HossKf4GbnbFaLi5Pa8GNWNXYUwZZL84/edit)
+[GOOGLE LINK TO PROJECT PROPOSAL](https://docs.google.com/document/d/1b-X0_Imnww4HossKf4GbnbFaLi5Pa8GNWNXYUwZZL84/edit)
