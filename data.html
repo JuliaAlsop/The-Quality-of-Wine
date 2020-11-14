@@ -1,0 +1,98 @@
+<!-- Comparison Page [6] -->
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Machine Learning</title>
+</head>
+<body>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <div class="navigation">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" style="background-color: red;" href="index.html">Homepage</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Plots
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="alcohol.html">Quality VS. Alcohol Content</a>
+                            <a class="dropdown-item" href="sugar.html">Quality VS. Residual Sugar</a>
+                            <a class="dropdown-item" href="color.html">Quality VS. Color</a>
+                            <a class="dropdown-item" href="otherfactor.html">Other Top Factors</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="comparison.html">Comparison</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="data.html"></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="box">
+                <h3 class="title">Machine Learning</h3>
+                <hr>
+                <p>we basically used several binary classification methods to determine which one would be best suited to predict 
+                    whether a particular wine is considered high quality or not.
+                    The four classification methods that we used are: 1) Random Tree Classifier method too
+                    2) KNN (K Nearest Neighbor)
+                    3) SVM (Support Vector Machine)
+                    4) GridSearchCV Estimator best score</p>
+                <div class="container" style="padding-bottom: 10px;">
+                    <div class="row">
+                        <div class="col-lg-10" style="padding-bottom: 30px;">
+                            <div class="title">Wine Quality</div>
+                            <a href="data.html">
+                                <img class="panel" src="Images/plot1.png" alt="Wine Quality">
+                            </a>
+                        </div>
+                        <div class="col-lg-10" style="padding-bottom: 30px;">
+                            <div class="title">Desicion Plot</div>
+                            <a href="data.html">
+                                <img class="panel" src="Images/plot2.png" alt="Desicion Plot">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-10" style="padding-bottom: 30px;">
+                            <div class="title">Train Test Score</div>
+                            <a href="data.html">
+                                <img class="panel" src="Images/Plot 3.png" alt="Train Test Score">
+                            </a>
+                        </div>
+                        <div class="col-lg-10" style="padding-bottom: 30px;">
+                            <div class="title">Distribution</div>
+                            <a href="data.html">
+                                <img class="panel" src="Images/plot4.png" alt="Distribution">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-10" style="padding-bottom: 30px;">
+                            <div class="title">SVM Scatter</div>
+                            <a href="data.html">
+                                <img class="panel" src="Images/svm_scatter.png" alt="SVM Scatter">
+                            </a>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>Machine Learning</footer>
+</body>
+</html>
