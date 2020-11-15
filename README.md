@@ -35,3 +35,5 @@ Various graph types will be used to visually represent findings.
 
 
 [GOOGLE LINK TO PROJECT PROPOSAL](https://docs.google.com/document/d/1b-X0_Imnww4HossKf4GbnbFaLi5Pa8GNWNXYUwZZL84/edit)
+
+[POWERPOINT PRESENTATION](https://docs.google.com/presentation/d/1edO0usJjUGKsRHPfSsgHXy1kwouP2VmmmkjxLMsRcxE/edit?usp=sharing) 
